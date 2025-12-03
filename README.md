@@ -1,13 +1,13 @@
-# Guia de Aula – Instalações Elétricas em Painel Didático sobre Bancadas
+<td style="width: 10%;">
+    <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="20%" />
+</td>
 
-## CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS
-### Departamento de Engenharia Elétrica – CEFET-MG
-### Coordenação do Curso de Eletrotécnica
+### **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
+### **Departamento de Engenharia Elétrica - CEFET-MG**  
+### **Coordenação do Curso de Eletrotécnica**  
 
-### Disciplina: PLIP – Prática de Laboratório de Instalações Prediais
-
-## Tema da Aula
-### Montagens Elétricas no Painel Didático – Interligações Funcionais de Iluminação e Tomadas
+### Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+### Aula Prática Montagens Elétricas no Painel Didático – Interligações Funcionais de Iluminação e Tomadas
 
 ---
 
