@@ -23,6 +23,19 @@ Ao final desta atividade, o aluno será capaz de:
 - Registrar medições e anomalias observadas durante a prática.
 
 ---
+## Introdução
+
+A atividade propõe a realização de cinco montagens elétricas no painel didático de bancada, com o objetivo de desenvolver a prática de instalações prediais conforme a NBR 5410. Os alunos deverão identificar fase, neutro e retorno, interpretar diagramas, organizar condutores e executar conexões de forma segura e funcional.
+
+As montagens incluem:
+
+- Interruptor simples comandando uma lâmpada, com uma tomada alimentada diretamente.
+- Interruptor de duas seções acendendo duas lâmpadas de forma independente.
+- Interruptor triplo comandando três lâmpadas distintas.
+- Circuito paralelo (three-way) utilizando dois interruptores para acionar uma mesma lâmpada a partir de dois pontos.
+- Circuito com interruptor intermediário (four-way) permitindo acionamento de uma lâmpada por três pontos diferentes.
+  
+---
 
 ## Materiais Necessários
 
@@ -43,15 +56,19 @@ Ao final desta atividade, o aluno será capaz de:
 - Esquemas fornecidos pelo professor
 
 ---
+## Painel Didático
 
-# Atividades Práticas
 
-## 1) Interruptor simples comandando uma lâmpada e uma tomada
+---
+
+## Atividades Práticas
+
+### 1) Interruptor simples comandando uma lâmpada e uma tomada
 
 ### Objetivo
 Montar um circuito no qual um interruptor simples aciona uma lâmpada, enquanto a tomada recebe alimentação direta do circuito.
 
-### O aluno deverá:
+**O aluno deverá:**
 1. Identificar fase e neutro no painel.
 2. Levar fase interrompida ao soquete da lâmpada.
 3. Levar neutro direto à lâmpada.
@@ -60,12 +77,12 @@ Montar um circuito no qual um interruptor simples aciona uma lâmpada, enquanto 
 
 ---
 
-## 2) Interruptor de duas seções comandando duas lâmpadas
+### 2) Interruptor de duas seções comandando duas lâmpadas
 
 ### Objetivo
 Controlar duas lâmpadas de forma independente usando um único interruptor com duas teclas.
 
-### O aluno deverá:
+**O aluno deverá:**
 1. Alimentar a entrada comum das duas seções com a mesma fase.
 2. Passar cada retorno para sua respectiva lâmpada.
 3. Ligar o neutro direto para ambas as lâmpadas.
@@ -78,7 +95,7 @@ Controlar duas lâmpadas de forma independente usando um único interruptor com 
 ### Objetivo
 Utilizar um interruptor triplo para comandar três pontos de luz distintos.
 
-### O aluno deverá:
+**O aluno deverá:**
 1. Identificar a entrada comum (fase).
 2. Distribuir a fase para as três teclas (ponteamento).
 3. Organizar e ligar os três retornos de acordo com o esquema.
@@ -91,7 +108,7 @@ Utilizar um interruptor triplo para comandar três pontos de luz distintos.
 ### Objetivo
 Montar um circuito de iluminação controlado por dois pontos distintos.
 
-### O aluno deverá:
+**O aluno deverá:**
 1. Identificar os bornes: comum e dois viajantes.
 2. Ligar os viajantes entre os dois interruptores.
 3. Conectar a fase ao comum do primeiro interruptor.
@@ -105,7 +122,7 @@ Montar um circuito de iluminação controlado por dois pontos distintos.
 ### Objetivo
 Montar um circuito em que três pontos diferentes controlam uma única lâmpada.
 
-### O aluno deverá:
+**O aluno deverá:**
 1. Montar os dois interruptores paralelos (three-way).
 2. Inserir o interruptor intermediário (four-way) entre eles.
 3. Executar a ligação cruzada dos viajantes no intermediário.
