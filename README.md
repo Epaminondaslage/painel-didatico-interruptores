@@ -80,6 +80,8 @@ Permite a montagem de:
 ### Objetivo
 Montar um circuito no qual um interruptor simples aciona uma lâmpada, enquanto a tomada recebe alimentação direta do circuito.
 
+<img src="img/diagrama-1.jpg" alt="diagrama-1" width="60%">
+
 **O aluno deverá:**
 1. Identificar fase e neutro no painel.
 2. Levar fase interrompida ao soquete da lâmpada.
@@ -94,6 +96,8 @@ Montar um circuito no qual um interruptor simples aciona uma lâmpada, enquanto 
 ### Objetivo
 Controlar duas lâmpadas de forma independente usando um único interruptor com duas teclas.
 
+<img src="img/diagrama-2.jpg" alt="diagrama-2" width="60%">
+
 **O aluno deverá:**
 1. Alimentar a entrada comum das duas seções com a mesma fase.
 2. Passar cada retorno para sua respectiva lâmpada.
@@ -106,6 +110,8 @@ Controlar duas lâmpadas de forma independente usando um único interruptor com 
 
 ### Objetivo
 Utilizar um interruptor triplo para comandar três pontos de luz distintos.
+
+<img src="img/diagrama-3.jpg" alt="diagrama-3" width="60%">
 
 **O aluno deverá:**
 1. Identificar a entrada comum (fase).
@@ -120,6 +126,8 @@ Utilizar um interruptor triplo para comandar três pontos de luz distintos.
 ### Objetivo
 Montar um circuito de iluminação controlado por dois pontos distintos.
 
+<img src="img/diagrama-4.jpg" alt="diagrama-4" width="60%">
+
 **O aluno deverá:**
 1. Identificar os bornes: comum e dois viajantes.
 2. Ligar os viajantes entre os dois interruptores.
@@ -133,6 +141,8 @@ Montar um circuito de iluminação controlado por dois pontos distintos.
 
 ### Objetivo
 Montar um circuito em que três pontos diferentes controlam uma única lâmpada.
+
+<img src="img/diagrama-5.jpg" alt="diagrama-5" width="60%">
 
 **O aluno deverá:**
 1. Montar os dois interruptores paralelos (three-way).
