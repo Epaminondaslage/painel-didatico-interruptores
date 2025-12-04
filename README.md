@@ -6,7 +6,7 @@
 ### **Departamento de Engenharia Elétrica - CEFET-MG**  
 ### **Coordenação do Curso de Eletrotécnica**  
 
-### Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+### Disciplina: **PLIEP - Prática de Laboratório de Instalações Elétricas Prediais**
 ### Aula Prática: Montagens de Interruptores e Tomadas em  Painel Didático 
 
 ---
