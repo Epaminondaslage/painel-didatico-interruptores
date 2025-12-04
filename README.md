@@ -154,7 +154,7 @@ Montar um circuito em que três pontos diferentes controlam uma única lâmpada.
 
 ## Diagramas
 
-Os diagramas unifilar e multifilar correspondentes às cinco montagens devem ser apresentados no relatório.
+Elabore os diagramas unifilar correspondentes às cinco montagens.
 
 ---
 
@@ -174,4 +174,3 @@ Os diagramas unifilar e multifilar correspondentes às cinco montagens devem ser
 - Remover todos os condutores do painel.
 - Devolver interruptores, tomadas e acessórios.
 - Organizar ferramentas e bancada.
-- Entregar relatório conforme instruções.
