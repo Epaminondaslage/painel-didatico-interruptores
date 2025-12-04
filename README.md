@@ -58,6 +58,18 @@ As montagens incluem:
 ---
 ## Painel Didático
 
+<img src="img/painel1.jpg" alt="painel1" width="60%">
+
+Permite a montagem de:
+- Circuitos de iluminação simples;
+- Comandos independentes por interruptores simples, duas e três seções, tomada, interruptor paralelo e intermediário 
+
+
+<img src="img/painel2.jpg" alt="painel2" width="60%">
+
+Permite a montagem de:
+- Circuitos de iluminação simples;
+- Comandos independentes por interruptores paralelo e intermediários.
 
 ---
 
