@@ -7,7 +7,7 @@
 ### **Coordenação do Curso de Eletrotécnica**  
 
 ### Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
-### Aula Prática: Montagens de Interruptores e tomadas em  Painel Didático 
+### Aula Prática: Montagens de Interruptores e Tomadas em  Painel Didático 
 
 ---
 
